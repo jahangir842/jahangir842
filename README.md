@@ -10,7 +10,7 @@
 - 🐦 [Twitter](https://twitter.com/johndoe)  
 
 📊 **GitHub Stats**  
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahangir842&show_icons=true&theme=dark)
 
 🛠 **Tech Stack**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
