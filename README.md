@@ -10,13 +10,15 @@
 - 🐦 [Twitter](https://twitter.com/johndoe)  
 
 📊 **GitHub Stats**  
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahangir842&show_icons=true&theme=dark)
+![Jahangir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahangir842&show_icons=true&theme=dark)
 
-🛠 **Tech Stack**  
-### **💻 Programming & Scripting**
+---
+
+## 🛠 **Tech Stack**  
+
+### **💻 Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### **☁️ Cloud Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -26,7 +28,7 @@
 ### **🐳 Containerization & Orchestration**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![Singularity](https://img.shields.io/badge/Singularity-009FDA?style=flat&logo=singularity&logoColor=white)
 
 ### **⚙️ CI/CD & Automation**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
