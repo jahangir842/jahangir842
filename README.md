@@ -3,11 +3,10 @@
 🚀 **About Me**  
 - 🛠 DevOps Engineer | Cloud Architect  
 - 💻 Passionate about Linux, Kubernetes, and CI/CD  
-- 📖 Currently learning Terraform and Ansible  
+- 📖 Love Automation with Terraform and Ansible  
 
 🌎 **Connect with Me**  
-- 🔗 [LinkedIn](https://linkedin.com/in/johndoe)  
-- 🐦 [Twitter](https://twitter.com/johndoe)  
+- 🔗 [LinkedIn]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/jahangir-a-45886428a/))  
 
 📊 **GitHub Stats**  
 ![Jahangir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahangir842&show_icons=true&theme=dark)
