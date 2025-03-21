@@ -6,7 +6,7 @@
 - 📖 Love Automation with Terraform and Ansible  
 
 🌎 **Connect with Me**  
-- 🔗 [https://linkedin.com/in/johndoe](https://www.linkedin.com/in/jahangir-a-45886428a/) 
+- 🔗 [Linkedin](https://www.linkedin.com/in/jahangir-a-45886428a/) 
 
 📊 **GitHub Stats**  
 ![Jahangir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahangir842&show_icons=true&theme=dark)
