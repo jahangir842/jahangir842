@@ -45,5 +45,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat&logo=rockylinux&logoColor=white)
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-16A1DC?style=flat&logo=almalinux&logoColor=white)
 
 ---
