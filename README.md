@@ -8,10 +8,8 @@
 🌎 **Connect with Me**  
 - 🔗 [Linkedin](https://www.linkedin.com/in/jahangir-a-45886428a/) 
 
-📊 **GitHub Stats**  
-![Jahangir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahangir842&show_icons=true&theme=dark)
-
 ---
+📊 **GitHub Stats** 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahangir842&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahangir842&layout=compact)
