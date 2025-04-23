@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Jahangir!
+👋 Hey there, I'm Jahangir!  
 
-🚀 **About Me**  
-- 🛠 DevOps Engineer | Cloud Architect  
-- 💻 Passionate about Linux, Kubernetes, and CI/CD  
-- 📖 Love Automation with Terraform and Ansible  
+🛠 DevOps Engineer & Cloud Solutions Architect  
+🤖 AI Explorer – diving into Transformers, LLMs, and the future of intelligent automation  
+💡 Obsessed with building scalable infrastructure and automating everything  
+🐧 Linux wizard | ⚙️ CI/CD junkie | ☁️ Fluent in AWS, Azure, and Kubernetes  
+📦 IaC advocate – Terraform and `ansible.builtin.*` are my daily tools  
+
+---
 
 🌎 **Connect with Me**  
 - 🔗 [Linkedin](https://www.linkedin.com/in/jahangir-a-45886428a/) 
