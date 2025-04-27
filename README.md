@@ -1,10 +1,10 @@
 ## 👋 Hey there, I'm Jahangir!  
 
-🛠 DevOps Engineer & Cloud Solutions Architect  
-🤖 AI Explorer – diving into Transformers, LLMs, and the future of intelligent automation  
-💡 Obsessed with building scalable infrastructure and automating everything  
-🐧 Linux wizard | ⚙️ **CI/CD** junkie | ☁️ Fluent in **AWS**, **Azure** | **Kubernetes** enthusiast 
-📦 IaC advocate – **Terraform** and **Ansible** are my daily tools  
+- 🛠 DevOps Engineer & Cloud Solutions Architect  
+- 🤖 AI Explorer – diving into Transformers, LLMs, and the future of intelligent automation  
+- 🐧 Linux | ⚙️ **CI/CD** | ☁️ **AWS**, **Azure** | **Kubernetes** enthusiast 
+- 📦 IaC advocate – **Terraform** and **Ansible** are my daily tools  
+- 💡 Obsessed with building scalable infrastructure and automating everything
 
 ---
 
