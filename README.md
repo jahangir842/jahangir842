@@ -1,14 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
 ### 👋 Hey, I’m **Jahangir**  
 
+---
+
 - 🛠 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI Explorer  
-- ⚙️ CI/CD • Docker • Kubernetes • GitHub Actions  
-- ☁️ AWS | Azure | GCP  
-- 📦 Terraform | Ansible | IaC everything  
-- 🧠 Exploring LLMs, Transformers, and AI workflows  
-- 🐧 Linux-first. Automation always. Scalability by default.  
-
-
 - 💡 My mantra: *“If it can be automated, it should be.”*
 
 ---
@@ -31,8 +26,6 @@
 |--|--|
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
