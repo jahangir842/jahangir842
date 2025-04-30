@@ -2,6 +2,8 @@
 ## 👋 Hi there, I'm Jahangir
 <div align="center">
   <img src="https://img.shields.io/badge/DevOps Engineer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
+    <img src="https://img.shields.io/badge/Cloud Architect-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
+    <img src="https://img.shields.io/badge/AI Explorer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -23,7 +25,28 @@
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-    
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:jahangir80842@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jahangir-a-45886428a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@jahangir80842" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassan883&style=flat-square&color=blue" alt="Profile views"/>
+  <br/>
+  <img src="https://img.shields.io/github/followers/hassan883?label=Followers&style=social" alt="GitHub followers"/>
+</div>
+
 ---
 
 ### 📊 GitHub Stats
