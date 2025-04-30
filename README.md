@@ -64,7 +64,7 @@ Here are some **recommended additional categories** and visual upgrades to make 
 
 ---
 
-### ✅ **🔧 Skills**
+## 🛠 **Tech Stack** 
 
 | Category        | Skills        |
 |-----------------|---------------|
