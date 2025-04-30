@@ -56,33 +56,8 @@
 ---
 
 
+<!--- -- Activity Graph -------------------------------------------------------- -->
 
-
-<!-- BLOG-POST-LIST:START -->
-- [The guide to MCP I never had.](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
-- [30+ MCP Ideas with Complete Source Code](https://dev.to/copilotkit/30-mcp-ideas-with-complete-source-code-d8e)
-- [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
-- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar; 🚀 🤖](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
-- [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
-- [How to Get Headless CMS in Next.js with One Line](https://dev.to/anmolbaranwal/how-to-get-headless-cms-in-nextjs-with-one-line-44mf)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-> Some of the blogs I'm proud of.
-
-|  Banner  |   Details  |
-|:--------:|:-----------|
-| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/9025d740-f383-40ac-89cd-c188b75d91ed" alt="open source 100x simpler" width="700" /> | ✧ Featured in the GitHub Community <br><br> [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c) |
-| <img src="https://github.com/user-attachments/assets/82ff0dd2-930c-4f25-a60a-f804f0b320e2" alt="side income ways as a developer" width="700" /> | ✧ Got 40k+ views and 1k+ reactions <br><br> [11 Practical Ways to Bring Side Income as a Developer 💰](https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm) |
-| <img src="https://github.com/user-attachments/assets/9207da2f-cd28-41a5-ad97-791d868dc169" alt="how to build first ai agent in 30 minutes" width="700" /> | ✧ Got 40k+ views <br><br> [Agents 101: How to build your first AI Agent in 30 minutes!](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042) |
-| <img src="https://github.com/user-attachments/assets/8b8715be-d2e6-412e-ae51-c1f436de5daa" alt="prompt engineering for developers" width="700" /> | <br><br> [Prompt Engineering For Developers: 11 Concepts and Examples](https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0) |
-| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4" alt="Shortcut to Find Open Source Projects 100x faster" width="700" /> | ✧ Featured in the Top 7 <br><br> ✧ Achieved over 20k views with 600+ reactions. <br><br> [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje) |
-| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/f3b13dba-4639-4d93-b4fa-8a1de92cbea0" alt="30+ app ideas with complete source code" width="700" /> | ✧ Reached 40k+ Views and 1.5k+ reactions <br><br> [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76) |
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <br>
 <hr>
