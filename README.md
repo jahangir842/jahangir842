@@ -17,7 +17,7 @@
 - 🔗 [Linkedin](https://www.linkedin.com/in/jahangir-a-45886428a/) 
 
 ---
-📊 **GitHub Stats** 
+![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 📊 GitHub Stats
 
@@ -27,18 +27,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
-
-
-## combined
-
-## 📊 GitHub Stats
-
-| ![Jahangir github stats](https://github-readme-stats.vercel.app/api?username=jahangir842&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahangir842&theme=tokyonight&border_radius=8) |
-| -- | -- |
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
-
 
 ---
 
