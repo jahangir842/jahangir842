@@ -1,9 +1,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
-### 👋 Hey, I’m **Jahangir**  
+## 👋 Hi there, I'm Jahangir
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=445&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=DevOps Engineer+|+☁️ Cloud Architect;+🤖 AI Explorer+|+Gen+AI+|+LLM+Engineer" alt="Typing SVG" />
+  <br/>
+  <img src="https://img.shields.io/badge/DevOps Engineer@PAF-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
+</div>
+
+## 👨‍💻 About Me
+
+🚀 I'm a DevOps Engineer, Cloud Architect, and AI Explorer passionate about building scalable infrastructure, automating workflows, and integrating intelligent systems powered by LLMs.
 
 ---
 
-- 🛠 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI Explorer  
 - 💡 My mantra: *“If it can be automated, it should be.”*
 
 ---
