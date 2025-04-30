@@ -7,6 +7,24 @@
 - 💡 Obsessed with building scalable infrastructure and automating everything
 
 ---
+Here's an enhanced, **cooler and more polished version** of your introduction, perfect for your GitHub README, LinkedIn summary, or portfolio:
+
+---
+
+## 👋 Hey there, I'm **Jahangir** —  
+
+### 🚀 DevOps Engineer | ☁️ Cloud Solutions Architect | 🤖 AI Explorer
+
+- 🧠 Passionate about shaping the **future of intelligent automation** through **LLMs**, **Transformers**, and cutting-edge **AI systems**  
+- ⚙️ CI/CD is my rhythm — I automate, integrate, and optimize with tools like **GitHub Actions**, **GitLab CI**, and **Jenkins**
+- ☁️ Fluent in multi-cloud environments: **AWS**, **Azure**, **GCP**
+- 🐳 Obsessed with containers — from **Docker** to **Kubernetes**, I orchestrate with precision  
+- 📦 Infrastructure as Code? That’s my playground — I wield **Terraform**, **Ansible**, and **CloudFormation** like second nature  
+- 🐧 Linux-first mindset — performance, security, and automation baked into every layer  
+- 🔄 Always exploring **AI + DevOps fusion** — from deploying ML pipelines to building scalable, GPU-optimized training environments  
+- 💡 My mantra: *“If it can be automated, it should be.”*
+
+---
 
 🌎 **Connect with Me**  
 - 🔗 [Linkedin](https://www.linkedin.com/in/jahangir-a-45886428a/) 
@@ -80,4 +98,7 @@ Here are some **recommended additional categories** and visual upgrades to make 
 | **Operating Systems** | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/> <img src="https://img.shields.io/badge/AlmaLinux-16A1DC?style=for-the-badge&logo=almalinux&logoColor=white"/> |
 | **Miscellaneous Tools** | <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-CA2132?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Curl-00599C?style=for-the-badge&logo=curl&logoColor=white"/> |
 
+| **AI / LLMs / Machine Learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-FF6565?style=for-the-badge&logo=qdrant&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=faiss&logoColor=white"/> <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=wandb&logoColor=black"/> |
+
 ---
+
