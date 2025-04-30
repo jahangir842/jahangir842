@@ -14,8 +14,13 @@
 
 ---
 
-🌎 **Connect with Me**  
-- 🔗 [Linkedin](https://www.linkedin.com/in/jahangir-a-45886428a/) 
+## 📬 Connect With Me
+
+<a href="https://www.linkedin.com/in/jahangir-a-45886428a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@jahangir80842" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge
 
 ---
 
