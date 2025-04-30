@@ -23,6 +23,27 @@
 | -- | -- |
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahangir842&layout=compact)  
 
+![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Snake](https://github.com/jahangir842/jahangir842/blob/output/github-contribution-grid-snake.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jahangir842&theme=tokyonight&column=4&margin-w=15&margin-h=15)
+![Jahangir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahangir842&theme=tokyo-night&hide_border=true)
+
+
+## combined
+
+## 📊 GitHub Stats
+
+| ![Jahangir github stats](https://github-readme-stats.vercel.app/api?username=jahangir842&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahangir842&theme=tokyonight&border_radius=8) |
+| -- | -- |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jahangir842&theme=tokyonight&column=4)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahangir842&theme=tokyo-night)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 ---
 
 ## 🛠 **Tech Stack** 
