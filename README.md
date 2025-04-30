@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
-## 👋 Hey, I’m **Jahangir**  
+### 👋 Hey, I’m **Jahangir**  
 
 - 🛠 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI Explorer  
 - ⚙️ CI/CD • Docker • Kubernetes • GitHub Actions  
@@ -8,13 +8,12 @@
 - 🧠 Exploring LLMs, Transformers, and AI workflows  
 - 🐧 Linux-first. Automation always. Scalability by default.  
 
----
 
 - 💡 My mantra: *“If it can be automated, it should be.”*
 
 ---
 
-## 📬 Connect With Me
+### 📬 Connect With Me
 
 <a href="https://www.linkedin.com/in/jahangir-a-45886428a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,7 +25,7 @@
     
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 | ![Jahangir GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangir842&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahangir842&theme=tokyonight&border_radius=8) |
 |--|--|
@@ -37,7 +36,7 @@
 
 ---
 
-## 🛠 **Tech Stack** 
+### 🛠 **Tech Stack** 
 
 | Category        | Skills        |
 |-----------------|---------------|
