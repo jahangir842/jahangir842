@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
 ## 👋 Hey, I’m **Jahangir**  
 
 - 🛠 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI Explorer  
@@ -17,7 +18,7 @@
 - 🔗 [Linkedin](https://www.linkedin.com/in/jahangir-a-45886428a/) 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ## 📊 GitHub Stats
 
