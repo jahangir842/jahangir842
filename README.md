@@ -1,27 +1,14 @@
-## 👋 Hey there, I'm Jahangir!  
+## 👋 Hey, I’m **Jahangir**  
 
-- 🛠 DevOps Engineer & Cloud Solutions Architect  
-- 🤖 AI Explorer – diving into Transformers, LLMs, and the future of intelligent automation  
-- 🐧 Linux | ⚙️ **CI/CD** | ☁️ **AWS**, **Azure** | **Kubernetes** enthusiast 
-- 📦 IaC advocate – **Terraform** and **Ansible** are my daily tools  
-- 💡 Obsessed with building scalable infrastructure and automating everything
-
----
-Here's an enhanced, **cooler and more polished version** of your introduction, perfect for your GitHub README, LinkedIn summary, or portfolio:
+- 🛠 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI Explorer  
+- ⚙️ CI/CD • Docker • Kubernetes • GitHub Actions  
+- ☁️ AWS | Azure | GCP  
+- 📦 Terraform | Ansible | IaC everything  
+- 🧠 Exploring LLMs, Transformers, and AI workflows  
+- 🐧 Linux-first. Automation always. Scalability by default.  
 
 ---
 
-## 👋 Hey there, I'm **Jahangir** —  
-
-### 🚀 DevOps Engineer | ☁️ Cloud Solutions Architect | 🤖 AI Explorer
-
-- 🧠 Passionate about shaping the **future of intelligent automation** through **LLMs**, **Transformers**, and cutting-edge **AI systems**  
-- ⚙️ CI/CD is my rhythm — I automate, integrate, and optimize with tools like **GitHub Actions**, **GitLab CI**, and **Jenkins**
-- ☁️ Fluent in multi-cloud environments: **AWS**, **Azure**, **GCP**
-- 🐳 Obsessed with containers — from **Docker** to **Kubernetes**, I orchestrate with precision  
-- 📦 Infrastructure as Code? That’s my playground — I wield **Terraform**, **Ansible**, and **CloudFormation** like second nature  
-- 🐧 Linux-first mindset — performance, security, and automation baked into every layer  
-- 🔄 Always exploring **AI + DevOps fusion** — from deploying ML pipelines to building scalable, GPU-optimized training environments  
 - 💡 My mantra: *“If it can be automated, it should be.”*
 
 ---
