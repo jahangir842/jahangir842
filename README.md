@@ -41,6 +41,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=jahangir842&theme=tokyonight&border_radius=8)
+
 
 ---
 
