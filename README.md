@@ -40,6 +40,8 @@
 |--|--|
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight)
+
 
 ---
 
