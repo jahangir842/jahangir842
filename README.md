@@ -32,6 +32,11 @@
   
 </div>
 
+<a href="https://jahangir842.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portal-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portal Badge"/>
+</a>
+
+
 ---
 
 ### 📊 GitHub Stats
