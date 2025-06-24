@@ -33,47 +33,10 @@
   </a>
 </div>
 
-############# Test color ######################
-
-<div align="center">
-
-  <!-- Blueviolet -->
-  <a href="https://your-portal-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <!-- Blue -->
-  <a href="https://your-portal-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
   <!-- Green -->
   <a href="https://your-portal-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portal-28a745?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-
-  <!-- Orange -->
-  <a href="https://your-portal-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-FB8C00?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <!-- Red -->
-  <a href="https://your-portal-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-DC3545?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <!-- Teal -->
-  <a href="https://your-portal-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-20c997?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-</div>
-
-
-############# end Test color ######################
-
-
-
   
 </div>
 
