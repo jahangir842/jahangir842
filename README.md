@@ -28,13 +28,12 @@
   <a href="https://medium.com/@jahangir80842" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://your-portal-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portal-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
   
 </div>
-
-<a href="https://jahangir842.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portal-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portal Badge"/>
-</a>
 
 
 ---
