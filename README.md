@@ -12,7 +12,7 @@
 
 ---
 
-- 💡 My mantra: *“If it can be automated, it should be.”*
+- 💡 **The idea that shapes my work:** *“If it can be automated, it should be.”*
 
 ---
 
