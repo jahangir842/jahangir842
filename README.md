@@ -42,6 +42,9 @@
 | ![Jahangir GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangir842&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight) |
 |--|--|
 
+
+![Jahangir GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jahangir842&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8)
+
 ---
 
 ### 🛠 **Tech Stack** 
