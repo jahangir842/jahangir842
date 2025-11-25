@@ -43,7 +43,6 @@
  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir842&layout=compact&theme=tokyonight) |
 |--|--|
 
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev&theme=dark)](https://git.io/awesome-stats-card)
 [![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/jahangir842&theme=dark)](https://git.io/awesome-stats-card)
 ---
 
