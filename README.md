@@ -44,6 +44,7 @@
 |--|--|
 
 ![Jagz GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangir842&show_icons=true&rank_icon=percentile&theme=tokyonight&border_radius=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jahangir842&theme=tokyonight&hide_border=false)
 
 ---
 
