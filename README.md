@@ -63,3 +63,54 @@
 
 ---
 
+
+You can add a dedicated **🏆 Certifications** section right before your **GitHub Stats** (or after “About Me”).
+Here’s a clean, professional block you can paste directly into your README:
+
+---
+
+## 🏆 Certifications
+
+* 🟧 **AWS Certified Solutions Architect – Associate**
+  Issued by **Amazon Web Services**
+  🔗 [https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301](https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301)
+
+* 🟦 **Microsoft Certified: Azure Administrator Associate**
+  Issued by **Microsoft**
+  🔗 [https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118](https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118)
+
+* 📜 **Additional Certifications**
+  🔗 [https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET](https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET)
+
+---
+
+If you want it to look more visually appealing (since your profile already uses badges), you can use shield-style buttons like this instead:
+
+```md
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118">
+    <img src="https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </a>
+</p>
+
+📜 **More Certifications:**  
+https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET
+```
+
+---
+
+### Small improvement suggestion (professional touch)
+
+You can also add credential IDs below each cert, for example:
+
+* Credential ID: `FC664544013F1DEE`
+
+This increases recruiter trust because they can verify instantly.
+
+If you want, I can restructure your entire README to look more “Cloud Architect + DevOps Authority” level polished.
+
