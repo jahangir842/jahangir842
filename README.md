@@ -86,7 +86,7 @@ Here’s a clean, professional block you can paste directly into your README:
 
 If you want it to look more visually appealing (since your profile already uses badges), you can use shield-style buttons like this instead:
 
-```md
+
 ## 🏆 Certifications
 
 <p align="center">
@@ -100,9 +100,8 @@ If you want it to look more visually appealing (since your profile already uses 
 
 📜 **More Certifications:**  
 https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET
-```
 
----
+
 
 ### Small improvement suggestion (professional touch)
 
