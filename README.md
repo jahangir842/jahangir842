@@ -74,9 +74,26 @@
 | **Monitoring & Logging** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/> <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/> |
 | **Security & DevSecOps** | <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/> <img src="https://img.shields.io/badge/Trivy-9D38BD?style=for-the-badge&logo=trivy&logoColor=white"/> |
 | **Source Control** | <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/> |
-| **Operating Systems** | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/> <img src="https://img.shields.io/badge/AlmaLinux-16A1DC?style=for-the-badge&logo=almalinux&logoColor=white"/> |
-| **Miscellaneous Tools** | <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-CA2132?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Curl-00599C?style=for-the-badge&logo=curl&logoColor=white"/> |
-| **AI / LLMs** | <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-FF6565?style=for-the-badge&logo=qdrant&logoColor=white"/> |
+
+| **Operating Systems** | 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AlmaLinux-16A1DC?style=for-the-badge&logo=almalinux&logoColor=white"/> |
+
+| **Miscellaneous Tools** | 
+<img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Apache-CA2132?style=for-the-badge&logo=apache&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Curl-00599C?style=for-the-badge&logo=curl&logoColor=white"/> |
+
+| **AI / LLMs** | 
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=openai&logoColor=white"/> 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
+<img src="https://img.shields.io/badge/vLLM-3B82F6?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Qdrant-FF6565?style=for-the-badge&logo=qdrant&logoColor=white"/>|
 
 ---
 
