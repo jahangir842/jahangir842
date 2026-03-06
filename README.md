@@ -27,19 +27,7 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:jahangir80842@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jahangir-a-45886428a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@jahangir80842" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://jahangir842.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-28a745?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
+<a href="mailto:jahangir80842@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/jahangir-a-45886428a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@jahangir80842" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://jahangir842.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portal-28a745?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
 
