@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 I'm a DevOps Engineer, Cloud Architect, and AI Explorer passionate about building scalable infrastructure, automating workflows, and integrating intelligent systems powered by LLMs.
+🚀 I'm a DevOps Engineer, Cloud Architect, and AI Explorer passionate about building scalable infrastructure, automating workflows, and integrating intelligent systems.
 
 ---
 
