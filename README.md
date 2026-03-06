@@ -6,9 +6,7 @@
 <img src="https://img.shields.io/badge/DevOps%20Engineer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Architect-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20Explorer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
-
-<br><br>
-
+<br>
 <a href="https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a><a href="https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118"><img src="https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
 </div>
 
