@@ -50,13 +50,16 @@
 
 * 🟧 **AWS Certified Solutions Architect – Associate**
   Issued by **Amazon Web Services**
+
   🔗 [https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301](https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301)
 
 * 🟦 **Microsoft Certified: Azure Administrator Associate**
   Issued by **Microsoft**
+  
   🔗 [https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118](https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118)
 
 * 📜 **Additional Certifications**
+  
   🔗 [https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET](https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET)
 
 ---
