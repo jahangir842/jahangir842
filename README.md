@@ -29,8 +29,6 @@
 <a href="https://jahangir842.github.io/"><img src="https://img.shields.io/badge/Portal-28a745?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </div>
 
-
-
 ---
 
 ## 🏆 Certifications
@@ -69,7 +67,6 @@
 | **AI / LLMs** | <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/vLLM-3B82F6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Qdrant-FF6565?style=for-the-badge&logo=qdrant&logoColor=white"/>|
 
 ---
-
 ### GitHub Stats
 
 <p align="center">
