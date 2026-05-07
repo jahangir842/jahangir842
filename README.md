@@ -33,24 +33,6 @@
 
 ## 🏆 Certifications
 
-* 🟧 **AWS Certified Solutions Architect – Associate**
-  Issued by **Amazon Web Services**
-
-  🔗 [https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301](https://www.credly.com/badges/5c271a19-3330-4166-8052-d5ef67444301)
-
-* 🟦 **Microsoft Certified: Azure Administrator Associate**
-  Issued by **Microsoft**
-  
-  🔗 [https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118](https://learn.microsoft.com/api/credentials/share/en-us/JahangirAlam-9192/FC664544013F1DEE?sharingId=D2BA1ACB17E6118)
-
-* 📜 **Additional Certifications**
-  
-  🔗 [https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET](https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET)
-
-<img width="1617" height="695" alt="image" src="https://github.com/user-attachments/assets/c0bef5db-e54f-4f4d-bf08-79303b14ec2c" />
-
-## 🏆 Certifications
-
 | Certificate | Issuing Organization | Category | Badge |
 |---|---|---|---|
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ☁️ Cloud / MLOps | ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonaws&logoColor=white) |
@@ -70,7 +52,6 @@
 ---
 
 > 💡 *Continuously upskilling in Cloud Architecture, AI/ML, and Quality Systems.*
----
 
 ### 🛠 **Tech Stack** 
 
