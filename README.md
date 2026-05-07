@@ -49,6 +49,66 @@
 
 <img width="1617" height="695" alt="image" src="https://github.com/user-attachments/assets/c0bef5db-e54f-4f4d-bf08-79303b14ec2c" />
 
+
+## 🏆 Certifications
+
+<details>
+<summary><b>☁️ Cloud & MLOps (7)</b></summary>
+
+<br>
+
+| Certificate | Issuing Organization | Badge |
+|---|---|---|
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonaws&logoColor=white) |
+| Microsoft Certified: Azure Administrator Associate | Microsoft | ![Azure](https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
+| Huawei HCCDP-Solution Architectures | Huawei Cloud | ![Huawei](https://img.shields.io/badge/Huawei-HCCDP_Solution_Architectures-CF0A2C?style=flat&logo=huawei&logoColor=white) |
+| Integrating AWS with SDK | Amazon Web Services | ![AWS](https://img.shields.io/badge/AWS-Integrating_with_SDK-FF9900?style=flat&logo=amazonaws&logoColor=white) |
+| AI Model Deployment on AWS | 365 Data Science | ![AWS](https://img.shields.io/badge/365_DataScience-AI_Model_Deployment_on_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) |
+| Fully Automated MLOps | 365 Data Science | ![MLOps](https://img.shields.io/badge/365_DataScience-Fully_Automated_MLOps-4A90D9?style=flat&logo=python&logoColor=white) |
+| Intro to Google Cloud | 365 Data Science | ![GCP](https://img.shields.io/badge/365_DataScience-Intro_to_Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
+
+</details>
+
+<details>
+<summary><b>🤖 AI / Agents & LLMs (4)</b></summary>
+
+<br>
+
+| Certificate | Issuing Organization | Badge |
+|---|---|---|
+| Build Chat Applications with OpenAI & LangChain | 365 Data Science | ![LangChain](https://img.shields.io/badge/365_DataScience-Chat_Apps_OpenAI_&_LangChain-412991?style=flat&logo=openai&logoColor=white) |
+| Evaluating AI Agents: From Metrics to Real-World Impact | 365 Data Science | ![AI](https://img.shields.io/badge/365_DataScience-Evaluating_AI_Agents-00A67E?style=flat&logo=openai&logoColor=white) |
+| Intro to AI Agents and Agentic AI | 365 Data Science | ![AI](https://img.shields.io/badge/365_DataScience-Intro_to_AI_Agents-8A2BE2?style=flat&logo=openai&logoColor=white) |
+| MCPs for Everyone: Supercharge Your AI Tooling Skills | 365 Data Science | ![MCP](https://img.shields.io/badge/365_DataScience-MCPs_for_Everyone-FF6B35?style=flat&logo=anthropic&logoColor=white) |
+
+</details>
+
+<details>
+<summary><b>🛠️ Dev Tools (1)</b></summary>
+
+<br>
+
+| Certificate | Issuing Organization | Badge |
+|---|---|---|
+| Git and GitHub | 365 Data Science | ![Git](https://img.shields.io/badge/365_DataScience-Git_and_GitHub-F05032?style=flat&logo=git&logoColor=white) |
+
+</details>
+
+<details>
+<summary><b>📋 Quality Management (1)</b></summary>
+
+<br>
+
+| Certificate | Issuing Organization | Badge |
+|---|---|---|
+| ISO 9001:2015 — Requirements, Documentation, Implementation & Internal Auditing | NASTP | ![ISO](https://img.shields.io/badge/NASTP-ISO_9001:2015-1E3A5F?style=flat&logo=checkmarx&logoColor=white) |
+
+</details>
+
+---
+
+> 💡 *Continuously upskilling in Cloud Architecture, AI/ML, and Quality Systems.*
+
 ---
 
 ### 🛠 **Tech Stack** 
