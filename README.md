@@ -47,8 +47,7 @@
   
   🔗 [https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET](https://drive.google.com/drive/folders/1VH9wFrMwOvXKYcdyyo4gWhtwKks5l1ET)
 
-<img width="1626" height="704" alt="image" src="https://github.com/user-attachments/assets/49b5fc96-5030-4fbf-8e50-5561921c7fb1" />
-
+<img width="1617" height="695" alt="image" src="https://github.com/user-attachments/assets/c0bef5db-e54f-4f4d-bf08-79303b14ec2c" />
 
 ---
 
