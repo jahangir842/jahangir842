@@ -1,7 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jahangir842&label=Profile%20Views&color=0e75b6&style=flat) <img src="https://img.shields.io/github/followers/jahangir842?label=Followers&style=social" alt="GitHub followers"/>
 
-## 👋 Hi there, I'm Jahangir
-
 <div align="center">
 <img src="https://img.shields.io/badge/DevOps%20Engineer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Architect-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
